@@ -14,7 +14,7 @@ The project datasets are stored externally in Google Drive due to their large fi
 
 ---
 
-##[AUTHORS](./AUTHORS)
+##AUTHORS
 
 This project **DIYARA** is an AI-powered Real Estate Recommendation System
 developed as part of the Graduation Project 2026 at King Saud University.
