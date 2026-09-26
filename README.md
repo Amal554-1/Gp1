@@ -11,3 +11,9 @@ The system aims to provide personalized recommendations by analyzing user prefer
 The project datasets are stored externally in Google Drive due to their large file size and are not included directly in this repository.
 
 [Access the Datasets](https://drive.google.com/drive/folders/1QgSzcUOqwGnakooaYg4hh9_p5_86-u6E)
+
+---
+
+## Authors
+
+[View Authors →](./AUTHORS)
