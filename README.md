@@ -5,6 +5,14 @@
 DIYARA is an AI-powered real estate recommendation system designed to help users find suitable neighborhoods and properties based on their preferences, lifestyle, and requirements.
 
 The system aims to provide personalized recommendations by analyzing user preferences and real estate data
+## GitHub Repository
+Repository Link:
+https://github.com/Amal554-1/Gp1
+
+DIYARA is an AI-powered real estate recommendation system designed to help users find suitable neighborhoods and properties based on their preferences, lifestyle, and requirements.
+
+The system aims to provide personalized recommendations by analyzing user preferences and real estate data
+
 
 ## Large Files and Dataset Access
 
